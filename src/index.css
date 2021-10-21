@@ -1,0 +1,14 @@
+/* @import-normalize; */
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.box.big {
+  width: 500px;
+  height: 500px;
+}
+
+.box.red {
+  background-color: red;
+}
