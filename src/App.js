@@ -1,4 +1,3 @@
-import ColorPicker from './components/ColorPicker/ColorPicker';
 // import PaintingList from './components/PaintingList';
 // import Section from './components/section';
 // import paintings from './painting.json';
